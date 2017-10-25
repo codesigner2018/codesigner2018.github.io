@@ -5,7 +5,6 @@ categories:
 - blog
 tags: js null undefined
 ---
-
 ### 相同点
 1. undefine 和 null 都只有一个值
 2. 参与判断都返回 false
